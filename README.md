@@ -1,5 +1,5 @@
-[![](https://raw.githubusercontent.com/ronaldogdm/ronaldogdm/master/profile.gif)](https://www.ronaldogdm.com/)<!-- If you want the template for my gif, email me! -->
-
+<!-- [![](https://raw.githubusercontent.com/ronaldogdm/ronaldogdm/master/profile.gif)](https://www.ronaldogdm.com/)<!-- If you want the template for my gif, email me! -->
+ -->
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
